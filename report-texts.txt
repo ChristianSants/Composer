@@ -1,0 +1,4 @@
+search Teste
+ [x] Get cep default usage with data set "Endereco Centro de Viamão"
+ [x] Get cep default usage with data set "Endereco Qualquer"
+
